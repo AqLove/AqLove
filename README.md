@@ -136,13 +136,16 @@ One line: what it does and who it's for.
 
 ### 📫 Let's work together
 
-<!-- Add your contacts here:
-<a href="mailto:YOUR@EMAIL.COM"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+Looking for a full-time frontend role in an office team. Open to junior positions and internships.
+
+<a href="mailto:akylzanorynbaev@gmail.com"><img src="https://img.shields.io/badge/Email-akylzanorynbaev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/aqi_ss"><img src="https://img.shields.io/badge/Telegram-@aqi__ss-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
+<!-- LinkedIn (add later):
 <a href="https://linkedin.com/in/YOUR-NAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 -->
 
-Looking for a full-time frontend role in an office team. Open to junior positions and internships.
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=AqLove&style=flat-square&color=0d1117&label=profile+views" />
 
