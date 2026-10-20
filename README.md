@@ -1,4 +1,4 @@
-### hi, I'm AqLove
+### hi, I'm Akylzhan
 
 Frontend developer. I make websites and small web apps, mostly with plain HTML, CSS and JavaScript, and PostgreSQL when there's data involved.
 
