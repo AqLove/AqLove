@@ -1,6 +1,6 @@
 ### hi, I'm Akylzhan
 
-Frontend developer. I make websites and small web apps, mostly with plain HTML, CSS and JavaScript, and PostgreSQL when there's data involved.
+
 
 I've always been good with computers, so at some point I decided to make it my job. Right now I'm looking for a full-time position in an office, with a team and real projects.
 
